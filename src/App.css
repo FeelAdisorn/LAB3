@@ -39,7 +39,7 @@
 }
 
 .activeCard {
-  color: red;
+  color: rgb(0, 255, 55);
   background: pink;
 
 }
@@ -52,3 +52,4 @@
     transform: rotate(360deg);
   }
 }
+
